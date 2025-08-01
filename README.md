@@ -78,6 +78,4 @@ It includes functionalities for creating, browsing, and removing albums, as well
 ### Album Page
 ![Screenshot_4](https://github.com/user-attachments/assets/33e1dcdb-f794-4b1e-82cc-3c588c4b23c1)
 
-## References
 
-I used [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev) to develop this project. Thank you for the useful content.
